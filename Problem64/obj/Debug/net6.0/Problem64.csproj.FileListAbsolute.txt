@@ -1,0 +1,15 @@
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\bin\Debug\net6.0\Problem64.exe
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\bin\Debug\net6.0\Problem64.deps.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\bin\Debug\net6.0\Problem64.runtimeconfig.json
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\bin\Debug\net6.0\Problem64.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\bin\Debug\net6.0\Problem64.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.csproj.AssemblyReference.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.AssemblyInfoInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.AssemblyInfo.cs
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.csproj.CoreCompileInputs.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\refint\Problem64.dll
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.pdb
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\Problem64.genruntimeconfig.cache
+C:\Users\khadi\OneDrive\Рабочий стол\C#_Final\Problem64\obj\Debug\net6.0\ref\Problem64.dll
